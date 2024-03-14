@@ -1,0 +1,6 @@
+@Michael_Hutchings_Mission10_HostAddress = http://localhost:5275
+
+GET {{Michael_Hutchings_Mission10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
